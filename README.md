@@ -12,3 +12,5 @@ Deleting files and directories using "rm" and "rmdir"
 17.09.2025
 I have mastered such commands as "head" "diff" "cat" and "tail" for different file operations
 I have acquired knowledge of system administration commands such as "chown" "chmod" and the "sudo" command, which gives access to commands that require more rights
+18.09.2025
+Today I learned how to create and delete users using the "useradd" and "userdel" commands, set a password with the "passwd" command, and lock and unlock it. I learned how to change the home directory, shell, add users to groups using "usermod" and various additional options.
