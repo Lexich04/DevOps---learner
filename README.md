@@ -22,3 +22,11 @@ who: to see who else is working on the development server.
 id: To verify group membership and user data for proper access control.
 top: for monitoring system processes and resource usage in order to ensure optimal performance.
 Output redirection (> and >>): To document your results in professional reports.
+30/09/2025
+I continued my journey by studying Git. Today I found out:
+How to create a Git repository (your time machine) using the git init command
+How to check the status of your repository using the git status command
+How to create files and prepare them for commit using the git add command
+How to create a commit (save point in time) using the git commit command
+How to view the history of your project using the git log command
+
