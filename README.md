@@ -31,3 +31,9 @@ How to create a commit (save point in time) using the git commit command
 How to view the history of your project using the git log command
 1.10.2025
 Today I have mastered the git config command, which is the main tool for configuring repository settings. I've changed various settings: username, email, formatting, and magazine editor. And also created shortcuts (alias) for simplified navigation.
+2/10/2025
+Today I found out:
+How to add files to staging area using "git add"
+How to ignore files that you don't want to track using ".gitignore"
+How to view changes in files before committing using "git diff"
+How to undo the addition of changes using "git restore --staged"
