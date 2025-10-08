@@ -37,3 +37,14 @@ How to add files to staging area using "git add"
 How to ignore files that you don't want to track using ".gitignore"
 How to view changes in files before committing using "git diff"
 How to undo the addition of changes using "git restore --staged"
+
+7.10.2025
+Today I learned how to create new branches using git branch, switch to them using git switch, merge branches using git merge, and delete them using the -d flag or force with -D
+8.10.2025
+Unfortunately, the free Git labs ended on that site and I had to move on to the next point, namely the basics of working with the Shell. I studied the WebIDE interface, and also created and ran my first primitive script.
+In another lab job, I learned:
+Creating and referencing shell variables
+Using special syntax to refer to variables in various scenarios
+Applying command substitution to save command output using $()
+Performing arithmetic operations with shell variables using using $((expression))
+Working with environment variables
