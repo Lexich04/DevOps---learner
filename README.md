@@ -63,3 +63,12 @@ Using special syntax to refer to variables in various scenarios
 Applying command substitution to save command output using $()
 Performing arithmetic operations with shell variables using using $((expression))
 Working with environment variables
+
+9.10.2025
+
+Today I studied:
+Accessing individual arguments using special variables ($1, $2, etc.)
+Using the $# variable to determine the number of arguments
+Implementation of conditional logic for processing different numbers of arguments
+Using the $@ variable to iterate through all passed arguments
+In addition, I practiced initializing arrays, adding elements to them, accessing certain elements, and determining the number of elements in the array.
