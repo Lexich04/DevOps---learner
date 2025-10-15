@@ -72,3 +72,13 @@ Using the $# variable to determine the number of arguments
 Implementation of conditional logic for processing different numbers of arguments
 Using the $@ variable to iterate through all passed arguments
 In addition, I practiced initializing arrays, adding elements to them, accessing certain elements, and determining the number of elements in the array.
+
+15.10.25
+
+I came across the fact that the free Shell lab software was over, so I switched to Docker and studied it today.: 
+Understand the basic concepts of Docker
+To launch my first container using the hello-world image
+View and understand Docker images on your system
+Navigate through the Docker Hub to search and explore images
+
+
